@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580735257262.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "2201823227",
+    "id" : "45D397D0",
+    "lastKnownWriteTime" : 1580737009,
+    "last_content_update" : 1580737009219,
+    "path" : "C:/Users/cshog/Dropbox/CHRISTIAN/Academic Work/Github/-Blind_Test/Chan_et_al_2020.R",
+    "project_path" : "Chan_et_al_2020.R",
+    "properties" : {
+        "cursorPosition" : "79,22",
+        "scrollLine" : "71",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
