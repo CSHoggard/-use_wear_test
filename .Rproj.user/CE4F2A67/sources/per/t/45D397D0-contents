@@ -90,4 +90,3 @@ chisq.test(table(compdata$Study, compdata$Percentage))
 
 figure_3 <- ggplot(compdata, aes(`Contact Material`, Percentage, fill = Study)) + geom_bar(stat="identity", color="black", position=position_dodge()) + theme_minimal() + ylim(0, 60) + scale_fill_brewer(palette="Paired") + labs(y = "Percent of correct responses (%)") + geom_text(aes(label=Percentage), vjust=1.6, color="white", position = position_dodge(0.9), size=3.5)
 ggsave("Figure_3.tiff", width = 120, height = 120, units = "mm")
-
