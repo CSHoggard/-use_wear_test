@@ -1,9 +1,5 @@
-id,contact_material,study,percentage
-1,Bone,TS,50
-2,Hide,TS,43.5
-3,Plant,TS,25
-4,Wood,TS,34.6
-5,Bone,APS,56.1
-6,Hide,APS,47.9
-7,Plant,APS,32.4
-8,Wood,APS,49.1
+Contact Material,TS,APS
+Bone,50,56.1
+Hide,58.8,47.9
+Plant,22.2,32.4
+Wood,38.5,49.1
