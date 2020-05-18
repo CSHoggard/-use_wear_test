@@ -40,6 +40,10 @@ dataset <- read.csv(text = urlfile1)
 compdata1 <- read.csv(text = urlfile2)  
 compdata2 <- read.csv(text = urlfile3)
 
+dataset$response_1 <- as.factor(dataset$response_1)
+dataset$response_2 <- as.factor(dataset$response_2)
+dataset$response_3 <- as.factor(dataset$response_3)
+
 df1 <- select(dataset, "classification_id1" = response_1, weight)
 df2 <- select(dataset, "classification_id2" = response_2, weight)
 df3 <- select(dataset, "classification_id3" = response_3, weight)
@@ -47,6 +51,9 @@ df3 <- select(dataset, "classification_id3" = response_3, weight)
 df1$classification_id1 <- as.factor(df1$classification_id1)
 df2$classification_id2 <- as.factor(df2$classification_id2)
 df3$classification_id3 <- as.factor(df3$classification_id3)
+
+compdata2$Contact.Material <- as.factor(compdata2$Contact.Material) 
+compdata2$Study <- as.factor(compdata2$Study)
 
 fig1a <- ggplot(df1, aes(classification_id1, weight)) + geom_jitter(width = 0.15, size = 2, aes(colour = classification_id1)) + ylim(0,1) + labs(x = "Classification", y = "Weight (g)") + scale_colour_manual(values=c("#56B4E9", "#E69F00")) + theme_minimal() + theme(legend.position = "none")
 fig1b <- ggplot(df2, aes(classification_id2, weight)) + geom_jitter(width = 0.15, size = 2, aes(colour = classification_id2)) + ylim(0,1) + labs(x = "Classification", y = "Weight (g)") + scale_colour_manual(values=c("#56B4E9", "#E69F00")) + theme_minimal() + theme(legend.position = "none")
