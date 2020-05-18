@@ -1,4 +1,4 @@
-Flake Number ,UCT1,UCT2,UCT3,CR,ARW,CA,W
+flake_number,response_1,response_2,response_3,correct_response_number,average_reponse_weight,classification,weight
 1,Correct,Incorrect,Correct,2,2.25,Used,0.0186
 2,Correct,Correct,Correct,4,1,Used,0.0503
 3,Correct,Correct,Correct,4,1,Used,0.0505
