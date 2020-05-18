@@ -21,10 +21,9 @@
 
 ### SCRIPT AUTHOR: CHRISTIAN STEVEN HOGGARD ###
 ### SCRIPT CONTACT: C.S.HOGGARD@SOTON.AC.UK / CHRISTIANHOGGARD@GMAIL.COM ###
-### LAST EDITED: 21/10/2019 ###
+### LAST EDITED: 18/05/2020 ###
 
 ### SYSTEM INFORMATION ###
-### R version 3.6.1 (2019-07-05) ###
 ### Platform: x86_64-w64-mingw32/x64 (64-bit) ###
 ### Running under: Windows 10 x64 (build 18362) ###
 
