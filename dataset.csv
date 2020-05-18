@@ -1,0 +1,41 @@
+Flake Number ,UCT1,UCT2,UCT3,CR,ARW,CA,W
+1,Correct,Incorrect,Correct,2,2.25,Used,0.0186
+2,Correct,Correct,Correct,4,1,Used,0.0503
+3,Correct,Correct,Correct,4,1,Used,0.0505
+4,Correct,Correct,Correct,3,1.5,Used,0.5263
+5,Correct,Correct,Correct,4,1,Used,0.1807
+6,Correct,Incorrect,Correct,2,2.5,Used,0.0502
+7,Correct,Incorrect,Correct,2,1.25,Used,0.0018
+8,Correct,Correct,Correct,4,1,Used,0.0797
+9,Correct,Correct,Correct,4,1,Used,0.2738
+10,Correct,Correct,Correct,3,1.75,Used,0.0441
+11,Correct,Incorrect,Correct,2,2.25,Used,0.1197
+12,Correct,Incorrect,Correct,2,2.25,Used,0.0256
+13,Incorrect,Correct,Correct,3,1.75,Used,0.0656
+14,Correct,Correct,Correct,4,1,Used,0.1067
+15,Correct,Correct,Incorrect,2,2.5,Used,0.0283
+16,Correct,Incorrect,Correct,2,2.5,Used,0.0184
+17,Correct,Correct,Correct,4,1,Used,0.0176
+18,Correct,Incorrect,Correct,2,2.25,Used,0.0002
+19,Correct,Correct,Correct,4,1,Used - no wear,0.0434
+20,Correct,Correct,Correct,4,1,Used,0.4435
+21,Correct,Correct,Correct,4,1,Used,0.064
+22,Correct,Correct,Correct,3,1.5,Used,0.2225
+23,Correct,Correct,Correct,4,1,Used,0.0999
+24,Correct,Correct,Correct,4,1,Used - no wear,0.047
+25,Correct,Correct,Correct,3,1.5,Unused,0.059
+26,Correct,Correct,Correct,4,1,Used,0.0134
+27,Correct,Incorrect,Correct,3,1.75,Used,0.0986
+28,Correct,Incorrect,Correct,3,1.75,Used,0.2311
+29,Correct,Correct,Correct,4,1,Used,0.7236
+30,Correct,Correct,Correct,4,1,Used,0.0479
+31,Correct,Correct,Correct,3,1.5,Unused,0.0521
+32,Correct,Incorrect,Correct,3,1.75,Used,0.1949
+33,Correct,Incorrect,Correct,2,2.25,Unused,0.6812
+34,Correct,Incorrect,Correct,2,2.5,Used,0.1385
+35,Correct,Correct,Incorrect,3,1.75,Unused,0.0224
+36,Incorrect,Incorrect,Incorrect,1,3.25,Used,0.09
+37,Correct,Correct,Correct,3,1.75,Used,0.0662
+38,Correct,Incorrect,Correct,2,2.5,Used,0.0092
+39,Correct,Correct,Correct,4,1,Unused,0.153
+40,Correct,Correct,Correct,4,1,Used - no wear,0.0085
